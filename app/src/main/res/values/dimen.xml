@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="gap_1">30dp</dimen>
+    <dimen name="gap_2">10dp</dimen>
+</resources>
